@@ -5,3 +5,5 @@
  * DateTime: 2016/10/27 11:17
  * Filename: new.php
  */
+
+echo 'new';
